@@ -1,6 +1,6 @@
 # is_subset
 
-[![GPLv2 License](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://opensource.org/licenses/) ![PyPI](https://img.shields.io/pypi/v/is_subset) ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/WajahatAliAbid/is-subset/build.yaml?branch=main)
+[![GPLv2 License](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://opensource.org/licenses/) ![PyPI](https://img.shields.io/pypi/v/is_subset) [![Actions Status](https://github.com/WajahatAliAbid/is-subset/workflows/Build/badge.svg)](https://github.com/WajahatAliAbid/is-subset/actions)
 
 
 **`is_subset`** is a Python utility for checking if a given dictionary (`dict2`) is a subset of another dictionary (`dict1`). It supports advanced matching features such as nested dictionaries, regular expressions, and conditional operators.
