@@ -1,12 +1,12 @@
 [project]
 name = "is_subset"
-version = "0.1.0"
+version = "0.1.1"
 description = "check if a given dictionary is subset of provided predicate"
 readme = "README.md"
 authors = [
     { name = "WajahatAliAbid", email = "17341777+WajahatAliAbid@users.noreply.github.com" }
 ]
-requires-python = ">=3.12"
+requires-python = ">=3.8"
 dependencies = []
 classifiers=[
     "Intended Audience :: Developers",
@@ -14,8 +14,13 @@ classifiers=[
     "Operating System :: Unix",
     "Operating System :: MacOS :: MacOS X",
     "Operating System :: Microsoft :: Windows",
+    "License :: OSI Approved :: GNU General Public License v2 (GPLv2)",
 ]
-keywords=["python", "is-subset"]
+keywords=["python", "is-subset", "subset"]
+
+[project.urls]
+Repository= "https://github.com/WajahatAliAbid/is-subset"
+Changelog= "https://github.com/WajahatAliAbid/is-subset/blob/main/CHANGELOG.md"
 
 [build-system]
 requires = ["hatchling"]
